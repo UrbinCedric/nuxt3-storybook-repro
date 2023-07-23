@@ -9,8 +9,8 @@ I did make it work with a custom vite config & [unplugin-auto-import](https://gi
 Take a look at the ./vite.config.ts & ./.storybook/main.ts!\)
 - *PROBLEM LEFT*: Nuxt3 composables are **NOT** auto-imported (See ./components/Button.vue line 6)
 
-I would really appreciate help to get this running!.... I am sick of this issue!
-Bounty is 5 subs for Aleks ;)
+I would really appreciate help to get this running!.... I am sick of this issue!\
+**Bounty is 5 subs for Aleks ;)**
 
 # Nuxt 3 Minimal Starter
 
