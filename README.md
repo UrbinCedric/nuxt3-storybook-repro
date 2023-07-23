@@ -1,6 +1,6 @@
 # Problem description
 
-I really want to use storybook to document our nuxt3 components.
+I really want to use storybook to document our nuxt3 components but the Nuxt3 composables are NOT auto-imported / can not be imported!
 
 The only option currently is to install storybook for vue3, thats what i did and it almost works.
 
