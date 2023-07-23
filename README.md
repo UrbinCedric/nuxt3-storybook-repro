@@ -1,3 +1,17 @@
+# Problem description
+
+I really want to use storybook to document our nuxt3 components.
+The only option currently is to install storybook for vue3, thats what i did and it almost works.
+
+Vue3 composables are auto-imported. (See ./components/Button.vue line 4)
+Nuxt3 composables are NOT auto-imported (See ./components/Button.vue line 6)
+
+I did make it work with a custom vite config & [unplugin-auto-import]([https://nuxt.com/docs/getting-started/introduction](https://github.com/antfu/unplugin-auto-import).
+Take a look at the ./vite.config.ts & ./.storybook/main.ts!
+
+I would really appreciate help to get this running!.... I am sick of this issue!
+Bounty is 5 subs for Aleks ;)
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
